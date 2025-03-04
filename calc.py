@@ -1,6 +1,6 @@
 # Simple Calculator
 
-def addition(x, 1dadc y):
+def addition(x, y):
     return x + y
 
 
